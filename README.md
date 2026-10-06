@@ -1,3 +1,3 @@
 # Reactnotreact
 This is my second repository
-Author - Akshat
+Author - Akshat Agarwal
